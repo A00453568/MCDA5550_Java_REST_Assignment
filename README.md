@@ -11,10 +11,10 @@ db_port: 3306
  ![Screenshot (1198)](https://user-images.githubusercontent.com/90723999/156289369-d65eeb48-41e9-4144-a640-8692fb2a0771.png)
  
 Functionalities:
- 1. Get the list of hotels present. url suffix: /hotelsList
+ 1. Get the list of hotels present. url suffix: /hotelsList/
 ![Screenshot (1199)](https://user-images.githubusercontent.com/90723999/156289390-97ebb753-9960-4f79-8a44-60fe7bba76cb.png)
 
-2. Add(Post) a new hotel to DB. url suffix: /addHotel
+2. Add(Post) a new hotel to DB. url suffix: /addHotel/
 ![Screenshot (1201)](https://user-images.githubusercontent.com/90723999/156289492-b659a08f-5fc2-42c4-97ca-12dce7e5e9a3.png)
 ![Screenshot (1202)](https://user-images.githubusercontent.com/90723999/156289499-fcf09a94-ab86-4772-83a7-242357983f4a.png)
 
