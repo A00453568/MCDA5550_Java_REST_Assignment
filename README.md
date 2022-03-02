@@ -1,8 +1,11 @@
 # MCDA5550_Java_REST_Assignment
 
 application link: http://javarestassignment-env.eba-ct5huccc.us-west-2.elasticbeanstalk.com/
+
 server_port: 5000
+
 database: hotel.cyhdgor7dxwe.us-west-2.rds.amazonaws.com
+
 db_port: 3306
 
  ![Screenshot (1198)](https://user-images.githubusercontent.com/90723999/156289369-d65eeb48-41e9-4144-a640-8692fb2a0771.png)
