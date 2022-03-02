@@ -24,3 +24,6 @@ Functionalities:
 4. Unique feature added: for any wrongly entered link it redirects to an error page with a link to home page
 ![Screenshot (1203)](https://user-images.githubusercontent.com/90723999/156289776-bed71bec-da1b-4eab-930e-7778dac7270b.png)
 ![Screenshot (1204)](https://user-images.githubusercontent.com/90723999/156289786-9f977cef-d3e0-4dee-affd-15ca2a8fed6b.png)
+
+Database:
+![image](https://user-images.githubusercontent.com/90723999/156292499-3d01bc03-e4c0-413b-829f-b992b04ad408.png)
